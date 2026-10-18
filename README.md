@@ -73,6 +73,8 @@ The analysis addresses several business questions:
 For a detailed explanation of the methodology, analytical findings, and business recommendations, refer to the **Project Report**.
 
 For a visual overview of the results, see the **Project Presentation** and **Power BI Dashboard**.
+<img width="603" height="341" alt="Screenshot 2026-10-18 175518" src="https://github.com/user-attachments/assets/41bc2184-2ff7-4c9c-a3fc-1bf718028aa3" />
+
 
 ## Future Improvements
 
@@ -80,5 +82,4 @@ For a visual overview of the results, see the **Project Presentation** and **Pow
 - Explore more advanced customer segmentation methods.
 - Incorporate transaction-level historical data for cohort retention and churn analysis.
 
-<img width="603" height="341" alt="Screenshot 2026-10-18 175518" src="https://github.com/user-attachments/assets/41bc2184-2ff7-4c9c-a3fc-1bf718028aa3" />
 
